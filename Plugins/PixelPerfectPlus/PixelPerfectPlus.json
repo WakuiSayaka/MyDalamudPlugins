@@ -1,0 +1,15 @@
+{
+	"Author": "ungeho",
+	"Name": "Pixel Perfect Plus",
+	"InternalName": "PixelPerfectPlus",
+	"Description": "Added two rings. config /ppp",
+	"Tags": [
+		"Hitbox",
+		"Overlay",
+		"Indicator"
+	],
+	"RepoUrl": "https://github.com/ungeho/PixelPerfectPlus",
+	"AssemblyVersion": "1.0.0.0",
+	"ApplicableVersion": "any",
+	"DalamudApiLevel": 3
+}
